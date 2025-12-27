@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget">
+    <par_dashboard_widget action="INSERT_OR_UPDATE">
+        <canvas display_value="">66e44a82c302f610415b533ed40131ac</canvas>
+        <component display_value="Column">2bd5dc19a7ad083941b7c992a966dd78</component>
+        <component_props>{"drilldownLabel":null,"configVersion":"23.0.0-ci-SNAPSHOT","chartSize":null,"showDataLabels":false,"disableTooltip":false,"showClosestSeriesOnHover":false,"showXGrid":false,"showDateRangeByDefault":false,"showYGrid":true,"xAxisTitle":null,"hideYAxis0":false,"yAxis0Title":null,"yAxis0From":null,"yAxis0To":null,"yAxis0Position":"left","hideYAxis1":false,"yAxis1Title":null,"yAxis1From":null,"yAxis1To":null,"yAxis1Position":"right","hideYAxis2":false,"yAxis2Title":null,"yAxis2From":null,"yAxis2To":null,"yAxis2Position":"right","hideYAxis3":false,"yAxis3Title":null,"yAxis3From":null,"yAxis3To":null,"yAxis3Position":"right","hideYAxis4":false,"yAxis4Title":null,"yAxis4From":null,"yAxis4To":null,"yAxis4Position":"right","showLegend":true,"showLegendValue":false,"legendPosition":"bottom","legendHorizontalAlignment":"center","legendMaxItemWidth":null,"legendExpandToFit":false,"yAxisStyle":"default","lineStrokeWidth":"2","colorConfig":{"type":"default"},"chartVariation":"stacked","extensionType":"bar","showContinuousLine":true,"showMarkers":false,"newReporting":false,"enableAddZerosAtApi":true,"additionalGroupByConfig":[],"dataSources":[{"allowRealTime":false,"allowTotalValue":true,"indicatorType":"1","isScriptedIndicator":false,"allowMultiElementsAggregation":false,"aggregateType":1,"label":"NeedIt: Due Monthly","sourceType":"indicator","uuid":{"breakdowns":[],"indicator":"b4e57cbdc30a3610415b533ed4013115"},"preferredVisualizations":["18ac962264404bcc0039359d184b15f3"],"id":"aW5kaWNhdG9yYjRlNTdjYmRjMzBhMzYxMDQxNWI1MzNlZDQwMTMxMTUxNzY2ODY0NDg1NTc4","dataCategories":["trend","group","simple"]}],"showHeader":true,"showTotalAggregate":false,"showSubAggregate":false,"showFirstGroupAggregate":false,"showSecondGroupAggregate":false,"hideMatrixAggregate":false,"wrapTitle":false,"showLoadingIndicator":false,"showHeaderSeparator":false,"contextMenuActions":[],"title":null,"headerTitle":"NeedIt Requests by Which Half of Month - 6 Month Sum","headingLevel":2,"description":"Display NeedIt requests by month half using the day of month from the When needed field.","showBorder":true,"groupByConfig":null,"bareBorder":false,"formats":null,"dataCategory":null,"telemetry":null,"showDataPassthrough":false,"showAdditionalGroupBySelector":false,"allowAdditionalGroupByPerMetric":true,"metrics":[{"dataSource":"aW5kaWNhdG9yYjRlNTdjYmRjMzBhMzYxMDQxNWI1MzNlZDQwMTMxMTUxNzY2ODY0NDg1NTc4","id":"YVc1a2FXTmhkRzl5WWpSbE5UZGpZbVJqTXpCaE16WXhNRFF4TldJMU16TmxaRFF3TVRNeE1UVXhOelkyT0RZME5EZzFOVGM0MTc2Njg2NDQ4NzA3Ng==","aggregateIndicator":"","frequency":40,"numberFormat":{"customFormat":false},"axisId":"primary"}],"groupBy":null,"filterPerMetric":[],"sortBy":"","sortByOrder":"","trendBy":{"trendByFrequency":"date","trendByFields":[{"field":"anything","metric":"YVc1a2FXTmhkRzl5WWpSbE5UZGpZbVJqTXpCaE16WXhNRFF4TldJMU16TmxaRFF3TVRNeE1UVXhOelkyT0RZME5EZzFOVGM0MTc2Njg2NDQ4NzA3Ng=="}]},"showChange":null,"showChangePercentage":null,"showTarget":false,"showForecast":false,"forecastConfig":null,"showForecastRange":false,"showTrend":false,"showConfidenceBand":false,"showGapPercentage":null,"showSparkline":null,"showMetricLabel":null,"showThreshold":false,"showComment":false,"showTotalValue":null,"followFilters":true,"showFilterIcon":true,"enableRealTimeUpdate":null,"enableDrilldown":true,"enableClickAndStay":false,"showDataTable":false,"enableCustomEmptyState":false,"componentId":"73twid6r","emptyStateIllustration":"no-data","emptyStateHeading":"No data available.","emptyStateHeadingLevel":3,"emptyStateContent":"There are no scores available for the selected criteria. Contact your admin for more info.","emptyStateAlignment":"vertical-centered","refreshFrequency":null,"backgroundRefreshInterval":null,"standardFormatData":null,"hideDevSettings":false,"configPropModifiers":{},"filterConfigurations":"@state.parFilters","showMaximumRange":false,"allowChangeDateRange":false,"applyDateRange":false,"chartExtraConfig":null,"numberOfPeriods":null,"showAbsolutePeriod":true,"scoreType":"latest","showChangeFrom":null,"startTime":"2025-07-01T08:00:00.000Z","endTime":"2025-12-27T19:45:44.868Z","useCurrentDateForEnd":false,"period":null,"useDataCache":false,"cacheExpirationTime":0,"showCacheTime":true,"isComponentInView":null,"pageId":null,"dateFormat":"default","showRefresh":true,"showFilterAsSeparateSeries":false,"id":"groupBy","value":null,"noDebounce":true,"propLabel":"Group by"}</component_props>
+        <h>15</h>
+        <name/>
+        <stored_component/>
+        <sys_class_name>par_dashboard_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-12-27 19:46:35</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>596ede82c3c2f610415b533ed4013141</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>par_dashboard_widget_596ede82c3c2f610415b533ed4013141</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-12-27 19:50:09</sys_updated_on>
+        <visualization/>
+        <w>25</w>
+        <widget_props/>
+        <x>21</x>
+        <y>13</y>
+    </par_dashboard_widget>
+</record_update>
